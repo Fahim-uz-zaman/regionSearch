@@ -59,7 +59,7 @@ The project provides a simple command-line interface (CLI) for running various g
 
 ## Graph Algorithms
 
-### Depth-First Search (DFS)
+### Greedy
 
 In incremental greedy algorithm, we start from a empty subgraph and form every vertex we will try to expand our subgraph , side by side we will take care of the edge capacity and the connectivity.
 
